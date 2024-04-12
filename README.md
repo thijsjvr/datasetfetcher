@@ -1,7 +1,7 @@
 # HOW TO USE
-cmd: ```uvicorn main:app --reload```
-
 you can search on a tag by changing the "package" variable
+
+cmd: ```uvicorn main:app --reload```
 
 open root website, this will create ```dataset.csv```.
 If error it probably means you hit the ratelimit, ProtonVPN has free VPN to switch IPs easy.
